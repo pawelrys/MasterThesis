@@ -1,0 +1,54 @@
+================================================================================
+- Timings
+================================================================================
+> scan classpath : 1 seconds
+> coverage and dependency analysis : 16 seconds
+> build mutation tests : 1 seconds
+> run mutation analysis : 5 minutes and 19 seconds
+--------------------------------------------------------------------------------
+> Total  : 5 minutes and 39 seconds
+--------------------------------------------------------------------------------
+================================================================================
+- Statistics
+================================================================================
+>> Generated 8351 mutations Killed 712 (9%)
+>> Ran 4140 tests (0.5 tests per mutation)
+================================================================================
+- Mutators
+================================================================================
+> org.pitest.mutationtest.engine.gregor.mutators.ConditionalsBoundaryMutator
+>> Generated 620 Killed 53 (9%)
+> KILLED 42 SURVIVED 87 TIMED_OUT 4 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 7 
+> NO_COVERAGE 480 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.IncrementsMutator
+>> Generated 317 Killed 43 (14%)
+> KILLED 40 SURVIVED 11 TIMED_OUT 1 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 2 
+> NO_COVERAGE 263 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.InvertNegsMutator
+>> Generated 1 Killed 0 (0%)
+> KILLED 0 SURVIVED 0 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 1 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator
+>> Generated 3075 Killed 157 (5%)
+> KILLED 117 SURVIVED 28 TIMED_OUT 1 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 39 
+> NO_COVERAGE 2890 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.MathMutator
+>> Generated 566 Killed 119 (21%)
+> KILLED 101 SURVIVED 22 TIMED_OUT 5 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 13 
+> NO_COVERAGE 425 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator
+>> Generated 3772 Killed 340 (9%)
+> KILLED 275 SURVIVED 76 TIMED_OUT 22 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 43 
+> NO_COVERAGE 3356 
+--------------------------------------------------------------------------------

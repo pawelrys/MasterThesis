@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <link rel="stylesheet" type="text/css" href="../style.css">
+</head>
+<body>
+
+
+<h1>Account.java</h1>
+
+<table class="src">
+
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_1'/>
+1
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_1'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>package com.uj.atm.common;</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_2'/>
+2
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_2'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''></span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_3'/>
+3
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_3'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>import com.uj.atm.interfaces.IAccount;</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_4'/>
+4
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_4'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''></span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_5'/>
+5
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_5'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>/**</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_6'/>
+6
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_6'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''> * UWAGA:</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_7'/>
+7
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_7'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''> * 1. Nie wolno tworzy&#263; publicznych p&#243;l, jedynie mo&#380;na u&#380;ywa&#263; metod z interface</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_8'/>
+8
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_8'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''> * 2. Nie wolno dopisywa&#263; w&#322;asnych metod</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_9'/>
+9
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_9'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''> * 3. Nie wolno modyfikowa&#263; interface</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_10'/>
+10
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_10'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''> * 4. Nie wolno zmienia&#263; wersji javy ani junita.</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_11'/>
+11
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_11'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''> * 5. Nie wolno tworzy&#263; nowych (w&#322;asnych) konstruktor&#243;w. Mo&#380;na u&#380;ywa&#263; jedynie istniej&#261;cych (bezparametrowych).</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_12'/>
+12
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_12'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''> */</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_13'/>
+13
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_13'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>public class Account implements IAccount {</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_14'/>
+14
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_14'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''></span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_15'/>
+15
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_15'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>    private double saldo;</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_16'/>
+16
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_16'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''></span></pre></td></tr>
+
+
+<tr>
+<td class='covered'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_17'/>
+17
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_17'></a>
+<span>
+</span>
+</span>
+</td>
+<td class='covered'><pre><span  class=''>    public Account() {</span></pre></td></tr>
+
+
+<tr>
+<td class='covered'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_18'/>
+18
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_18'></a>
+<span>
+</span>
+</span>
+</td>
+<td class='covered'><pre><span  class=''>        saldo = 0.0;</span></pre></td></tr>
+
+
+<tr>
+<td class='covered'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_19'/>
+19
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_19'></a>
+<span>
+</span>
+</span>
+</td>
+<td class='covered'><pre><span  class=''>    }</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_20'/>
+20
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_20'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''></span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_21'/>
+21
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_21'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>    @Override</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_22'/>
+22
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_22'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>    public double AccountStatus() {</span></pre></td></tr>
+
+
+<tr>
+<td class='covered'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_23'/>
+23
+</td>
+<td class='killed'>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_23'>1</a>
+<span>
+
+1. AccountStatus : replaced double return with 0.0d for com/uj/atm/common/Account::AccountStatus &rarr; KILLED<br/>
+
+</span>
+</span>
+</td>
+<td class='covered'><pre><span  class='killed'>        return saldo;</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_24'/>
+24
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_24'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>    }</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_25'/>
+25
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_25'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''></span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_26'/>
+26
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_26'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>    @Override</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_27'/>
+27
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_27'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>    public double DepositFunds(double amount) {</span></pre></td></tr>
+
+
+<tr>
+<td class='covered'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_28'/>
+28
+</td>
+<td class='killed'>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_28'>2</a>
+<span>
+
+1. DepositFunds : negated conditional &rarr; KILLED<br/>
+
+2. DepositFunds : changed conditional boundary &rarr; KILLED<br/>
+
+</span>
+</span>
+</td>
+<td class='covered'><pre><span  class='killed'>        if (amount &#60;= 0) {</span></pre></td></tr>
+
+
+<tr>
+<td class='covered'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_29'/>
+29
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_29'></a>
+<span>
+</span>
+</span>
+</td>
+<td class='covered'><pre><span  class=''>            throw new IllegalArgumentException(&#34;Warto&#347;&#263; depozytu powinna by&#263; wi&#281;ksza od zera!&#34;);</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_30'/>
+30
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_30'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>        }</span></pre></td></tr>
+
+
+<tr>
+<td class='covered'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_31'/>
+31
+</td>
+<td class='killed'>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_31'>1</a>
+<span>
+
+1. DepositFunds : Replaced double addition with subtraction &rarr; KILLED<br/>
+
+</span>
+</span>
+</td>
+<td class='covered'><pre><span  class='killed'>        saldo += amount;</span></pre></td></tr>
+
+
+<tr>
+<td class='covered'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_32'/>
+32
+</td>
+<td class='killed'>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_32'>1</a>
+<span>
+
+1. DepositFunds : replaced double return with 0.0d for com/uj/atm/common/Account::DepositFunds &rarr; KILLED<br/>
+
+</span>
+</span>
+</td>
+<td class='covered'><pre><span  class='killed'>        return saldo;</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_33'/>
+33
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_33'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>    }</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_34'/>
+34
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_34'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''></span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_35'/>
+35
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_35'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>    @Override</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_36'/>
+36
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_36'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>    public double WithdrawFunds(double amount) {</span></pre></td></tr>
+
+
+<tr>
+<td class='covered'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_37'/>
+37
+</td>
+<td class='killed'>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_37'>2</a>
+<span>
+
+1. WithdrawFunds : changed conditional boundary &rarr; KILLED<br/>
+
+2. WithdrawFunds : negated conditional &rarr; KILLED<br/>
+
+</span>
+</span>
+</td>
+<td class='covered'><pre><span  class='killed'>        if (amount &#60;= 0) {</span></pre></td></tr>
+
+
+<tr>
+<td class='covered'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_38'/>
+38
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_38'></a>
+<span>
+</span>
+</span>
+</td>
+<td class='covered'><pre><span  class=''>            throw new IllegalArgumentException(&#34;Warto&#347;&#263; wyp&#322;aty powinna by&#263; wi&#281;ksza od zera!&#34;);</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_39'/>
+39
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_39'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>        }</span></pre></td></tr>
+
+
+<tr>
+<td class='covered'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_40'/>
+40
+</td>
+<td class='killed'>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_40'>3</a>
+<span>
+
+1. WithdrawFunds : changed conditional boundary &rarr; KILLED<br/>
+
+2. WithdrawFunds : negated conditional &rarr; KILLED<br/>
+
+3. WithdrawFunds : Replaced double subtraction with addition &rarr; KILLED<br/>
+
+</span>
+</span>
+</td>
+<td class='covered'><pre><span  class='killed'>        if (saldo - amount &#60; 0) {</span></pre></td></tr>
+
+
+<tr>
+<td class='covered'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_41'/>
+41
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_41'></a>
+<span>
+</span>
+</span>
+</td>
+<td class='covered'><pre><span  class=''>            throw new IllegalArgumentException(&#34;Nie wystarczaj&#261;ca kwota na koncie!&#34;);</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_42'/>
+42
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_42'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>        }</span></pre></td></tr>
+
+
+<tr>
+<td class='covered'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_43'/>
+43
+</td>
+<td class='killed'>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_43'>1</a>
+<span>
+
+1. WithdrawFunds : Replaced double subtraction with addition &rarr; KILLED<br/>
+
+</span>
+</span>
+</td>
+<td class='covered'><pre><span  class='killed'>        saldo -= amount;</span></pre></td></tr>
+
+
+<tr>
+<td class='covered'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_44'/>
+44
+</td>
+<td class='killed'>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_44'>1</a>
+<span>
+
+1. WithdrawFunds : replaced double return with 0.0d for com/uj/atm/common/Account::WithdrawFunds &rarr; KILLED<br/>
+
+</span>
+</span>
+</td>
+<td class='covered'><pre><span  class='killed'>        return saldo;</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_45'/>
+45
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_45'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>    }</span></pre></td></tr>
+
+
+<tr>
+<td class='na'>
+<a name='org.pitest.mutationtest.report.html.SourceFile@261db982_46'/>
+46
+</td>
+<td class=''>
+<span class='pop'>
+<a href='#grouporg.pitest.mutationtest.report.html.SourceFile@261db982_46'></a>
+<span>
+</span>
+</span>
+</td>
+<td class=''><pre><span  class=''>}</span></pre></td></tr>
+
+
+
+<tr><td></td><td></td><td><h2>Mutations</h2></td></tr>
+
+
+<tr>
+<td><a href='#org.pitest.mutationtest.report.html.SourceFile@261db982_23'>23</a></td> 
+<td></td>
+<td>
+
+<a name='grouporg.pitest.mutationtest.report.html.SourceFile@261db982_23'/> 
+
+<p class='KILLED'><span class='pop'>1.<span><b>1</b><br/><b>Location : </b>AccountStatus<br/><b>Killed by : </b>com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest3(com.uj.atm.AccountTest)</span></span> replaced double return with 0.0d for com/uj/atm/common/Account::AccountStatus &rarr; KILLED</p> 
+</td>
+</tr>
+
+<tr>
+<td><a href='#org.pitest.mutationtest.report.html.SourceFile@261db982_28'>28</a></td> 
+<td></td>
+<td>
+
+<a name='grouporg.pitest.mutationtest.report.html.SourceFile@261db982_28'/> 
+
+<p class='KILLED'><span class='pop'>1.<span><b>1</b><br/><b>Location : </b>DepositFunds<br/><b>Killed by : </b>com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest)</span></span> negated conditional &rarr; KILLED</p> <p class='KILLED'><span class='pop'>2.<span><b>2</b><br/><b>Location : </b>DepositFunds<br/><b>Killed by : </b>com.uj.atm.AccountTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.AccountTest)</span></span> changed conditional boundary &rarr; KILLED</p> 
+</td>
+</tr>
+
+<tr>
+<td><a href='#org.pitest.mutationtest.report.html.SourceFile@261db982_31'>31</a></td> 
+<td></td>
+<td>
+
+<a name='grouporg.pitest.mutationtest.report.html.SourceFile@261db982_31'/> 
+
+<p class='KILLED'><span class='pop'>1.<span><b>1</b><br/><b>Location : </b>DepositFunds<br/><b>Killed by : </b>com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest)</span></span> Replaced double addition with subtraction &rarr; KILLED</p> 
+</td>
+</tr>
+
+<tr>
+<td><a href='#org.pitest.mutationtest.report.html.SourceFile@261db982_32'>32</a></td> 
+<td></td>
+<td>
+
+<a name='grouporg.pitest.mutationtest.report.html.SourceFile@261db982_32'/> 
+
+<p class='KILLED'><span class='pop'>1.<span><b>1</b><br/><b>Location : </b>DepositFunds<br/><b>Killed by : </b>com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest)</span></span> replaced double return with 0.0d for com/uj/atm/common/Account::DepositFunds &rarr; KILLED</p> 
+</td>
+</tr>
+
+<tr>
+<td><a href='#org.pitest.mutationtest.report.html.SourceFile@261db982_37'>37</a></td> 
+<td></td>
+<td>
+
+<a name='grouporg.pitest.mutationtest.report.html.SourceFile@261db982_37'/> 
+
+<p class='KILLED'><span class='pop'>1.<span><b>1</b><br/><b>Location : </b>WithdrawFunds<br/><b>Killed by : </b>com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest3(com.uj.atm.AccountTest)</span></span> changed conditional boundary &rarr; KILLED</p> <p class='KILLED'><span class='pop'>2.<span><b>2</b><br/><b>Location : </b>WithdrawFunds<br/><b>Killed by : </b>com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest3(com.uj.atm.AccountTest)</span></span> negated conditional &rarr; KILLED</p> 
+</td>
+</tr>
+
+<tr>
+<td><a href='#org.pitest.mutationtest.report.html.SourceFile@261db982_40'>40</a></td> 
+<td></td>
+<td>
+
+<a name='grouporg.pitest.mutationtest.report.html.SourceFile@261db982_40'/> 
+
+<p class='KILLED'><span class='pop'>1.<span><b>1</b><br/><b>Location : </b>WithdrawFunds<br/><b>Killed by : </b>com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest)</span></span> changed conditional boundary &rarr; KILLED</p> <p class='KILLED'><span class='pop'>2.<span><b>2</b><br/><b>Location : </b>WithdrawFunds<br/><b>Killed by : </b>com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest)</span></span> negated conditional &rarr; KILLED</p> <p class='KILLED'><span class='pop'>3.<span><b>3</b><br/><b>Location : </b>WithdrawFunds<br/><b>Killed by : </b>com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AccountTest)</span></span> Replaced double subtraction with addition &rarr; KILLED</p> 
+</td>
+</tr>
+
+<tr>
+<td><a href='#org.pitest.mutationtest.report.html.SourceFile@261db982_43'>43</a></td> 
+<td></td>
+<td>
+
+<a name='grouporg.pitest.mutationtest.report.html.SourceFile@261db982_43'/> 
+
+<p class='KILLED'><span class='pop'>1.<span><b>1</b><br/><b>Location : </b>WithdrawFunds<br/><b>Killed by : </b>com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest)</span></span> Replaced double subtraction with addition &rarr; KILLED</p> 
+</td>
+</tr>
+
+<tr>
+<td><a href='#org.pitest.mutationtest.report.html.SourceFile@261db982_44'>44</a></td> 
+<td></td>
+<td>
+
+<a name='grouporg.pitest.mutationtest.report.html.SourceFile@261db982_44'/> 
+
+<p class='KILLED'><span class='pop'>1.<span><b>1</b><br/><b>Location : </b>WithdrawFunds<br/><b>Killed by : </b>com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest)</span></span> replaced double return with 0.0d for com/uj/atm/common/Account::WithdrawFunds &rarr; KILLED</p> 
+</td>
+</tr>
+
+</table>
+
+
+<h2>Active mutators</h2>
+<ul>
+
+<li class='mutator'>CONDITIONALS_BOUNDARY</li>
+
+<li class='mutator'>EMPTY_RETURNS</li>
+
+<li class='mutator'>FALSE_RETURNS</li>
+
+<li class='mutator'>INCREMENTS</li>
+
+<li class='mutator'>INVERT_NEGS</li>
+
+<li class='mutator'>MATH</li>
+
+<li class='mutator'>NEGATE_CONDITIONALS</li>
+
+<li class='mutator'>NULL_RETURNS</li>
+
+<li class='mutator'>PRIMITIVE_RETURNS</li>
+
+<li class='mutator'>TRUE_RETURNS</li>
+
+<li class='mutator'>VOID_METHOD_CALLS</li>
+
+</ul>
+
+<h2>Tests examined</h2>
+<ul>
+<li>com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest) (1 ms)</li><li>com.uj.atm.AtmTest.transferMethodIncorrectParameterTest4(com.uj.atm.AtmTest) (0 ms)</li><li>com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest1(com.uj.atm.AccountTest) (19 ms)</li><li>com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest) (1 ms)</li><li>com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest3(com.uj.atm.AccountTest) (1 ms)</li><li>com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest) (2 ms)</li><li>com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest4(com.uj.atm.AccountTest) (1 ms)</li><li>com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest) (1 ms)</li><li>com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest2(com.uj.atm.AccountTest) (2 ms)</li><li>com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest) (1 ms)</li><li>com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest) (1 ms)</li><li>com.uj.atm.AccountTest.depositFundsMethodIncorrectParameterTest3(com.uj.atm.AccountTest) (2 ms)</li><li>com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest1(com.uj.atm.AccountTest) (3 ms)</li><li>com.uj.atm.AccountTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.AccountTest) (2 ms)</li><li>com.uj.atm.CreditCardTest.depositFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest) (1 ms)</li><li>com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest) (2 ms)</li><li>com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest3(com.uj.atm.AccountTest) (1 ms)</li><li>com.uj.atm.AccountTest.depositFundsMethodIncorrectParameterTest1(com.uj.atm.AccountTest) (3 ms)</li><li>com.uj.atm.AtmTest.transferMethodIncorrectParameterTest3(com.uj.atm.AtmTest) (1 ms)</li><li>com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest2(com.uj.atm.AccountTest) (2 ms)</li><li>com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest) (1 ms)</li><li>com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest) (1 ms)</li><li>com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest) (0 ms)</li><li>com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest3(com.uj.atm.AccountTest) (1 ms)</li><li>com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AccountTest) (1 ms)</li><li>com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest) (1 ms)</li><li>com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest) (1 ms)</li><li>com.uj.atm.AccountTest.initAccountTest(com.uj.atm.AccountTest) (1 ms)</li><li>com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest) (1 ms)</li><li>com.uj.atm.AtmTest.accountStatusMethodCorrectParameterTest(com.uj.atm.AtmTest) (1 ms)</li><li>com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AccountTest) (1 ms)</li>
+</ul>
+
+<br/>
+
+Report generated by <a href='https://pitest.org'>PIT</a> 1.13.1
+
+</body>
+</html>

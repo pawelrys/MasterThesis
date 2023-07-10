@@ -1,0 +1,19 @@
+FILE;
+	Nazwa pliku był wsadem został zmutowany. Przykład 1.ini
+G_CODE;
+	Identyfikador kodu, Czyli z jakiego projektu pochodzi kod.Przykład "1" znaczy że kod pochodzi od użytkownika o identyfikatorze 1
+G_TESTS;
+	Identyfikador kodu TESTÓW, Czyli z jakiego projektu pochodzi kod.Przykład "1" znaczy że kod TESTÓW pochodzi od użytkownika o identyfikatorze 1
+STATUS;
+	Status mutanta (NOT_STARTED(niepokryty)/KILLED(zabity)/SURVIVED(żywyw)/RUN_ERROR(Test uruchomiony z błędem [UWAGA MOZE SIE NIE POJAWIĆ]) 
+TEST_USED;
+	Nazwa testu jaki testował mutanta
+TEST_KILL;
+	Nazwa testu, który zabił mutanta w przypadku gdy mutant nie zostął wykryty wartosc będzie NONE
+MUTANT_LINE;
+	Identyfikador mutanta numer lini
+CLASS;
+	Identyfikador mutanta klas w jakiej sie znajduje
+DESCRIPTION
+	Identyfikador mutanta opis mutacji na przykład "negated conditional" lub "replaced return of double value with -(x + 1) for com/uj/atm/common/Account::AccountStatus"
+

@@ -1,0 +1,748 @@
+FILE;G_CODE;G_TESTS;STATUS;TEST_USED;TEST_KILL;MUTANT_LINE;CLASS;DESCRIPTION
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;23;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::AccountStatus
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;23;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::AccountStatus
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest2(com.uj.atm.AccountTest);NONE;23;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::AccountStatus
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest3(com.uj.atm.AccountTest);NONE;23;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::AccountStatus
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest2(com.uj.atm.AccountTest);NONE;23;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::AccountStatus
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest3(com.uj.atm.AccountTest);NONE;23;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::AccountStatus
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;23;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::AccountStatus
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;23;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::AccountStatus
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest1(com.uj.atm.AccountTest);NONE;23;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::AccountStatus
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.initAccountTest(com.uj.atm.AccountTest);NONE;23;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::AccountStatus
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.accountStatusMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;23;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::AccountStatus
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest1(com.uj.atm.AccountTest);NONE;23;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::AccountStatus
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest2(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest3(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest2(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest3(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodIncorrectParameterTest3(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest3(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest4(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest1(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodIncorrectParameterTest1(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.accountStatusMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest1(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest2(com.uj.atm.AccountTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest3(com.uj.atm.AccountTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest2(com.uj.atm.AccountTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest3(com.uj.atm.AccountTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AccountTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest3(com.uj.atm.AccountTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest4(com.uj.atm.AccountTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest1(com.uj.atm.AccountTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AccountTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.accountStatusMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest1(com.uj.atm.AccountTest);NONE;31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest2(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest3(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest2(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest3(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodIncorrectParameterTest3(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest3(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest4(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest1(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodIncorrectParameterTest1(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.accountStatusMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest1(com.uj.atm.AccountTest);NONE;28;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest2(com.uj.atm.AccountTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest3(com.uj.atm.AccountTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest2(com.uj.atm.AccountTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest3(com.uj.atm.AccountTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AccountTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest3(com.uj.atm.AccountTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest4(com.uj.atm.AccountTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest1(com.uj.atm.AccountTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AccountTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.accountStatusMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterDepositFundsTest1(com.uj.atm.AccountTest);NONE;32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;37;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;37;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest2(com.uj.atm.AccountTest);NONE;37;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest3(com.uj.atm.AccountTest);NONE;37;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);NONE;37;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AccountTest);NONE;37;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest3(com.uj.atm.AccountTest);NONE;37;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest4(com.uj.atm.AccountTest);NONE;37;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;37;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;37;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;37;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest1(com.uj.atm.AccountTest);NONE;37;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest);NONE;37;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AccountTest);NONE;37;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;40;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;40;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest2(com.uj.atm.AccountTest);NONE;40;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest3(com.uj.atm.AccountTest);NONE;40;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);NONE;40;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AccountTest);NONE;40;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;40;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;40;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;40;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest1(com.uj.atm.AccountTest);NONE;40;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest);NONE;40;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AccountTest);NONE;40;Account.java;changed conditional boundary
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;40;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;40;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest2(com.uj.atm.AccountTest);NONE;40;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest3(com.uj.atm.AccountTest);NONE;40;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);NONE;40;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AccountTest);NONE;40;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;40;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;40;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;40;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest1(com.uj.atm.AccountTest);NONE;40;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest);NONE;40;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AccountTest);NONE;40;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;43;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;43;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest2(com.uj.atm.AccountTest);NONE;43;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest3(com.uj.atm.AccountTest);NONE;43;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);NONE;43;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;43;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;43;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;43;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest1(com.uj.atm.AccountTest);NONE;43;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest);NONE;43;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;37;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;37;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest2(com.uj.atm.AccountTest);NONE;37;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest3(com.uj.atm.AccountTest);NONE;37;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);NONE;37;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AccountTest);NONE;37;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest3(com.uj.atm.AccountTest);NONE;37;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest4(com.uj.atm.AccountTest);NONE;37;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;37;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;37;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;37;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest1(com.uj.atm.AccountTest);NONE;37;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest);NONE;37;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AccountTest);NONE;37;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;40;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;40;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest2(com.uj.atm.AccountTest);NONE;40;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest3(com.uj.atm.AccountTest);NONE;40;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);NONE;40;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AccountTest);NONE;40;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;40;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;40;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;40;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest1(com.uj.atm.AccountTest);NONE;40;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest);NONE;40;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AccountTest);NONE;40;Account.java;negated conditional
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;44;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::WithdrawFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;44;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::WithdrawFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest2(com.uj.atm.AccountTest);NONE;44;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::WithdrawFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest3(com.uj.atm.AccountTest);NONE;44;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::WithdrawFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);NONE;44;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::WithdrawFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;44;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::WithdrawFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;44;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::WithdrawFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;44;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::WithdrawFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.accountStatusMethodAfterWithdrawFundsTest1(com.uj.atm.AccountTest);NONE;44;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::WithdrawFunds
+Account.java;Account.java;NOT_STARTED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest3(com.uj.atm.AccountTest);NONE;44;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::WithdrawFunds
+Account.java;Account.java;SURVIVED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;40;Account.java;changed conditional boundary
+Account.java;Account.java;KILLED;com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);Some(com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest));31;Account.java;Replaced double addition with subtraction
+Account.java;Account.java;SURVIVED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;37;Account.java;changed conditional boundary
+Account.java;Account.java;SURVIVED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);NONE;40;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;KILLED;com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);Some(com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest));28;Account.java;negated conditional
+Account.java;Account.java;KILLED;com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);Some(com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest));32;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::DepositFunds
+Account.java;Account.java;KILLED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);Some(com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest));43;Account.java;Replaced double subtraction with addition
+Account.java;Account.java;KILLED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);Some(com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest));40;Account.java;negated conditional
+Account.java;Account.java;KILLED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest));23;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::AccountStatus
+Account.java;Account.java;SURVIVED;com.uj.atm.AccountTest.depositFundsMethodCorrectParameterTest2(com.uj.atm.AccountTest);NONE;28;Account.java;changed conditional boundary
+Account.java;Account.java;KILLED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);Some(com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest));44;Account.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Account::WithdrawFunds
+Account.java;Account.java;KILLED;com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest);Some(com.uj.atm.AccountTest.withdrawFundsMethodCorrectParameterTest1(com.uj.atm.AccountTest));37;Account.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.accountStatusMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;31;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.accountStatusMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;31;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.accountStatusMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;34;Atm.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Atm::AccountStatus
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;39;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;39;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;39;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;39;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;39;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;42;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;42;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;42;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;42;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;23;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;23;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;23;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;23;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;26;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;26;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;26;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;47;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;47;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;47;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;47;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;50;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;50;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;50;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;69;Atm.java;changed conditional boundary
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;69;Atm.java;changed conditional boundary
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;69;Atm.java;changed conditional boundary
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;69;Atm.java;changed conditional boundary
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;63;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;63;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;63;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;63;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;63;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;63;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;66;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;66;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;66;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;66;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;66;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;69;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;69;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;69;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;69;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;69;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;69;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;69;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;69;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;71;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;71;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;73;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;73;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;55;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;55;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;55;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;55;Atm.java;negated conditional
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;58;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;58;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;58;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest));58;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest));39;Atm.java;negated conditional
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest));73;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest));47;Atm.java;negated conditional
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest));71;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.accountStatusMethodIncorrectParameterTest1(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.accountStatusMethodIncorrectParameterTest1(com.uj.atm.AtmTest));31;Atm.java;negated conditional
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest));23;Atm.java;negated conditional
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest));26;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest));69;Atm.java;changed conditional boundary
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest));66;Atm.java;negated conditional
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest));69;Atm.java;negated conditional
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest3(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest3(com.uj.atm.AtmTest));55;Atm.java;negated conditional
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest));42;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest));63;Atm.java;negated conditional
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest));50;Atm.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.accountStatusMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.accountStatusMethodCorrectParameterTest(com.uj.atm.AtmTest));34;Atm.java;replaced return of double value with -(x + 1) for com/uj/atm/common/Atm::AccountStatus
+Atm.java;Atm.java;KILLED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest));69;Atm.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.addAccountMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.getAccountMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.addAccountMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.addAccountMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.addAccountMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.getAccountMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.addAccountMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.addAccountMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;45;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;45;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;45;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;47;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;47;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;47;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;47;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;47;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;47;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;45;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;45;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;45;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;45;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;45;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;45;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;47;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;47;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;47;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;47;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;47;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;47;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;48;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;52;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;52;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;54;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;54;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;54;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;54;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;54;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;92;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;92;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;92;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;92;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;92;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;92;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;92;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;92;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;92;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;92;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;92;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;92;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;92;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;92;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;94;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;94;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;94;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;94;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;94;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;94;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;94;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;94;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;94;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;94;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;96;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;96;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;96;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;96;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.getAccountMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;84;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.getAccountMethodIncorrectParameterTest(com.uj.atm.CreditCardTest);NONE;84;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;84;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;84;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;84;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;84;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.getAccountMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;87;CreditCard.java;mutated return of Object value for com/uj/atm/common/CreditCard::GetAccount to ( if (x != null) null else throw new RuntimeException )
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;87;CreditCard.java;mutated return of Object value for com/uj/atm/common/CreditCard::GetAccount to ( if (x != null) null else throw new RuntimeException )
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;87;CreditCard.java;mutated return of Object value for com/uj/atm/common/CreditCard::GetAccount to ( if (x != null) null else throw new RuntimeException )
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;87;CreditCard.java;mutated return of Object value for com/uj/atm/common/CreditCard::GetAccount to ( if (x != null) null else throw new RuntimeException )
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;87;CreditCard.java;mutated return of Object value for com/uj/atm/common/CreditCard::GetAccount to ( if (x != null) null else throw new RuntimeException )
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.creditCardInitMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.changePinMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.changePinCardMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;62;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;62;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;62;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;62;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;62;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;64;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;64;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;64;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;64;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;64;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;64;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;64;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;64;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;64;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;64;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;62;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;62;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;62;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;62;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;62;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;59;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;59;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;59;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;59;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;59;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;59;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;59;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;62;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;62;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;62;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;62;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;62;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;64;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;64;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;64;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;64;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;64;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;64;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;64;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;64;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;64;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;64;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;60;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;60;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;65;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest3(com.uj.atm.AtmTest);NONE;65;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;68;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;68;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.isPinValidMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;68;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;101;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;101;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;101;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;101;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;101;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;101;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;101;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;101;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;101;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;103;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.CreditCardTest);NONE;103;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest1(com.uj.atm.AtmTest);NONE;103;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodCorrectParameterTest2(com.uj.atm.AtmTest);NONE;103;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AtmTest);NONE;105;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;105;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);NONE;105;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.CreditCardTest.withdrawFundsMethodIncorrectParameterTest2(com.uj.atm.CreditCardTest);NONE;105;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;NOT_STARTED;com.uj.atm.AtmTest.transferMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;105;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest));92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;92;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);Some(com.uj.atm.CreditCardTest.isPinValidMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest));65;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;45;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest));59;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest);Some(com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest1(com.uj.atm.CreditCardTest));27;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest));62;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;30;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest));62;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest);Some(com.uj.atm.CreditCardTest.changePinMethodCorrectParameterTest(com.uj.atm.CreditCardTest));52;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest));101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest));76;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest));45;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;47;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest));54;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest));101;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;101;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);NONE;44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;33;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;64;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest2(com.uj.atm.AtmTest));44;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;64;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);NONE;62;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);Some(com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest));33;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.withdrawFundsMethodCorrectParameterTest(com.uj.atm.AtmTest));103;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.CreditCardTest.getAccountMethodCorrectParameterTest(com.uj.atm.CreditCardTest);Some(com.uj.atm.CreditCardTest.getAccountMethodCorrectParameterTest(com.uj.atm.CreditCardTest));84;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest));64;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);NONE;35;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest2(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.checkPinAndLogInMethodIncorrectParameterTest2(com.uj.atm.AtmTest));60;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.CreditCardTest.getAccountMethodCorrectParameterTest(com.uj.atm.CreditCardTest);Some(com.uj.atm.CreditCardTest.getAccountMethodCorrectParameterTest(com.uj.atm.CreditCardTest));87;CreditCard.java;mutated return of Object value for com/uj/atm/common/CreditCard::GetAccount to ( if (x != null) null else throw new RuntimeException )
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest));64;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;47;CreditCard.java;changed conditional boundary
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest));73;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.checkPinAndLogInMethodCorrectParameterTest(com.uj.atm.AtmTest));68;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;47;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest));45;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.depositFundsMethodIncorrectParameterTest2(com.uj.atm.AtmTest));96;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest));48;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.withdrawFundsMethodIncorrectParameterTest1(com.uj.atm.AtmTest));105;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
+CreditCard.java;CreditCard.java;SURVIVED;com.uj.atm.AtmTest.changePinCardMethodIncorrectParameterTest4(com.uj.atm.AtmTest);NONE;47;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest));92;CreditCard.java;negated conditional
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest);Some(com.uj.atm.CreditCardTest.creditCardInitMethodIncorrectParameterTest3(com.uj.atm.CreditCardTest));33;CreditCard.java;Changed increment from 1 to -1
+CreditCard.java;CreditCard.java;KILLED;com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest);Some(com.uj.atm.AtmTest.depositFundsMethodCorrectParameterTest(com.uj.atm.AtmTest));94;CreditCard.java;replaced return of integer sized value with (x == 0 ? 1 : 0)
