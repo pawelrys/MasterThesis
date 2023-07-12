@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9C8DC90F-A0F0-4F8A-9591-5F87768BF2C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{EF75E139-4B23-4C0E-8DBB-BD83DD092F7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankomatUJ", "BankomatUJ\BankomatUJ.csproj", "{2B397D37-622B-4724-9965-88371F663D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankomatUJ.Tests", "BankomatUJ.Tests\BankomatUJ.Tests.csproj", "{B9D1512C-518C-4A37-A59C-D129C15408BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2B397D37-622B-4724-9965-88371F663D2E} = {9C8DC90F-A0F0-4F8A-9591-5F87768BF2C0}
+		{B9D1512C-518C-4A37-A59C-D129C15408BD} = {EF75E139-4B23-4C0E-8DBB-BD83DD092F7B}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B397D37-622B-4724-9965-88371F663D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B397D37-622B-4724-9965-88371F663D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B397D37-622B-4724-9965-88371F663D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B397D37-622B-4724-9965-88371F663D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9D1512C-518C-4A37-A59C-D129C15408BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D1512C-518C-4A37-A59C-D129C15408BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D1512C-518C-4A37-A59C-D129C15408BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D1512C-518C-4A37-A59C-D129C15408BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "3jCtvUNSlxoyWMauM5JEUz8nhjQ8wfRYp6Cv7P1qJg1TzPo2fsTEOnCNltpNgMXG6tpCP/+uH3EzwgK2XmN6Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pawek\\Magisterka\\rys\\stryker-net\\src\\Stryker.RegexMutators\\Stryker.RegexMutators\\Stryker.RegexMutators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pawek\\.nuget\\packages\\dotnet.reproduciblebuilds\\1.1.1\\dotnet.reproduciblebuilds.1.1.1.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\microsoft.sourcelink.azurerepos.git\\1.1.1\\microsoft.sourcelink.azurerepos.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\microsoft.sourcelink.bitbucket.git\\1.1.1\\microsoft.sourcelink.bitbucket.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\microsoft.sourcelink.gitlab\\1.1.1\\microsoft.sourcelink.gitlab.1.1.1.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\regexparser\\0.5.1\\regexparser.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

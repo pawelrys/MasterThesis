@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="coverlet.collector">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="coverlet.msbuild">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" />
+    <PackageReference Include="Moq" />
+    <PackageReference Include="Shouldly" />
+    <PackageReference Include="Spectre.Console.Testing" />
+    <PackageReference Include="TestableIO.System.IO.Abstractions.TestingHelpers"/>
+    <PackageReference Include="xunit" />
+    <PackageReference Include="xunit.runner.visualstudio" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Stryker.CLI\Stryker.CLI.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="filled-stryker-config.json" CopyToOutputDirectory="Always" />
+    <None Include="filled-stryker-config.yaml" CopyToOutputDirectory="Always" />
+    <None Include="stryker-config.json" CopyToOutputDirectory="Always" />
+  </ItemGroup>
+</Project>

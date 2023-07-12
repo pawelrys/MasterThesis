@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "4BNdcadYlVuj8YPicVuS9GeZOhQtXwS+SdVpPx+s0oWw7G7XtoQIarkW19otjbNtphjZwdZ14DO8x95m1aM2zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pawek\\Magisterka\\rys\\stryker-net\\src\\Stryker.DataCollector\\Stryker.DataCollector\\Stryker.DataCollector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pawek\\.nuget\\packages\\dotnet.reproduciblebuilds\\1.1.1\\dotnet.reproduciblebuilds.1.1.1.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\microsoft.sourcelink.azurerepos.git\\1.1.1\\microsoft.sourcelink.azurerepos.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\microsoft.sourcelink.bitbucket.git\\1.1.1\\microsoft.sourcelink.bitbucket.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\microsoft.sourcelink.gitlab\\1.1.1\\microsoft.sourcelink.gitlab.1.1.1.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0\\microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\microsoft.testplatform.portable\\17.6.0\\microsoft.testplatform.portable.17.6.0.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\pawek\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

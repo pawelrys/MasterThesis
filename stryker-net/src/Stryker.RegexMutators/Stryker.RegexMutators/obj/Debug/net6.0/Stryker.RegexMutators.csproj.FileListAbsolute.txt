@@ -1,0 +1,11 @@
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.RegexMutators\Stryker.RegexMutators\bin\Debug\net6.0\Stryker.RegexMutators.deps.json
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.RegexMutators\Stryker.RegexMutators\bin\Debug\net6.0\Stryker.RegexMutators.dll
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.RegexMutators\Stryker.RegexMutators\obj\Debug\net6.0\Stryker.RegexMutators.csproj.AssemblyReference.cache
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.RegexMutators\Stryker.RegexMutators\obj\Debug\net6.0\Stryker.RegexMutators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.RegexMutators\Stryker.RegexMutators\obj\Debug\net6.0\Stryker.RegexMutators.AssemblyInfoInputs.cache
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.RegexMutators\Stryker.RegexMutators\obj\Debug\net6.0\Stryker.RegexMutators.AssemblyInfo.cs
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.RegexMutators\Stryker.RegexMutators\obj\Debug\net6.0\Stryker.RegexMutators.csproj.CoreCompileInputs.cache
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.RegexMutators\Stryker.RegexMutators\obj\Debug\net6.0\Stryker.RegexMutators.sourcelink.json
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.RegexMutators\Stryker.RegexMutators\obj\Debug\net6.0\Stryker.RegexMutators.dll
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.RegexMutators\Stryker.RegexMutators\obj\Debug\net6.0\refint\Stryker.RegexMutators.dll
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.RegexMutators\Stryker.RegexMutators\obj\Debug\net6.0\ref\Stryker.RegexMutators.dll

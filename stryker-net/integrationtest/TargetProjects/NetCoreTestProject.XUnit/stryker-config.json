@@ -1,0 +1,17 @@
+{
+  "stryker-config": {
+    "reporters": [
+      "Dots",
+      "ClearText",
+      "Html",
+      "Json"
+    ],
+    "project": "TargetProject.csproj",
+    "ignore-mutations": [
+      "string"
+    ],
+    "mutate": [
+      "!Person.cs"
+    ]
+  }
+}

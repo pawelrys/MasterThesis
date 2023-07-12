@@ -1,0 +1,16 @@
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.Core\Stryker.Core\bin\Debug\net6.0\Stryker.Core.deps.json
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.Core\Stryker.Core\bin\Debug\net6.0\Stryker.Core.dll
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.Core\Stryker.Core\bin\Debug\net6.0\Stryker.Core.pdb
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.Core\Stryker.Core\bin\Debug\net6.0\Stryker.DataCollector.dll
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.Core\Stryker.Core\bin\Debug\net6.0\Stryker.RegexMutators.dll
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.Core\Stryker.Core\obj\Debug\net6.0\Stryker.Core.csproj.AssemblyReference.cache
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.Core\Stryker.Core\obj\Debug\net6.0\Stryker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.Core\Stryker.Core\obj\Debug\net6.0\Stryker.Core.AssemblyInfoInputs.cache
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.Core\Stryker.Core\obj\Debug\net6.0\Stryker.Core.AssemblyInfo.cs
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.Core\Stryker.Core\obj\Debug\net6.0\Stryker.Core.csproj.CoreCompileInputs.cache
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.Core\Stryker.Core\obj\Debug\net6.0\Stryker.Core.sourcelink.json
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.Core\Stryker.Core\obj\Debug\net6.0\Stryker.Core.csproj.CopyComplete
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.Core\Stryker.Core\obj\Debug\net6.0\Stryker.Core.dll
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.Core\Stryker.Core\obj\Debug\net6.0\refint\Stryker.Core.dll
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.Core\Stryker.Core\obj\Debug\net6.0\Stryker.Core.pdb
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.Core\Stryker.Core\obj\Debug\net6.0\ref\Stryker.Core.dll

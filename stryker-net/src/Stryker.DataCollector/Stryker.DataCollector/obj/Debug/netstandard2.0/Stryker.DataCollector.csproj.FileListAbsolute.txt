@@ -1,0 +1,9 @@
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.DataCollector\Stryker.DataCollector\bin\Debug\netstandard2.0\Stryker.DataCollector.deps.json
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.DataCollector\Stryker.DataCollector\bin\Debug\netstandard2.0\Stryker.DataCollector.dll
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.DataCollector\Stryker.DataCollector\obj\Debug\netstandard2.0\Stryker.DataCollector.csproj.AssemblyReference.cache
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.DataCollector\Stryker.DataCollector\obj\Debug\netstandard2.0\Stryker.DataCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.DataCollector\Stryker.DataCollector\obj\Debug\netstandard2.0\Stryker.DataCollector.AssemblyInfoInputs.cache
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.DataCollector\Stryker.DataCollector\obj\Debug\netstandard2.0\Stryker.DataCollector.AssemblyInfo.cs
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.DataCollector\Stryker.DataCollector\obj\Debug\netstandard2.0\Stryker.DataCollector.csproj.CoreCompileInputs.cache
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.DataCollector\Stryker.DataCollector\obj\Debug\netstandard2.0\Stryker.DataCollector.sourcelink.json
+C:\Users\pawek\Magisterka\rys\stryker-net\src\Stryker.DataCollector\Stryker.DataCollector\obj\Debug\netstandard2.0\Stryker.DataCollector.dll
