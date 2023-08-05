@@ -1,0 +1,15 @@
+C:\Users\pawek\RiderProjects\Bankomat\BankomatUJ\bin\Debug\net7.0\BankomatUJ.deps.json
+C:\Users\pawek\RiderProjects\Bankomat\BankomatUJ\bin\Debug\net7.0\BankomatUJ.runtimeconfig.json
+C:\Users\pawek\RiderProjects\Bankomat\BankomatUJ\obj\Debug\net7.0\BankomatUJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawek\RiderProjects\Bankomat\BankomatUJ\obj\Debug\net7.0\BankomatUJ.AssemblyInfoInputs.cache
+C:\Users\pawek\RiderProjects\Bankomat\BankomatUJ\obj\Debug\net7.0\BankomatUJ.AssemblyInfo.cs
+C:\Users\pawek\RiderProjects\Bankomat\BankomatUJ\obj\Debug\net7.0\BankomatUJ.genruntimeconfig.cache
+C:\Users\pawek\RiderProjects\Bankomat\BankomatUJ\bin\Debug\net7.0\BankomatUJ.exe
+C:\Users\pawek\RiderProjects\Bankomat\BankomatUJ\bin\Debug\net7.0\BankomatUJ.dll
+C:\Users\pawek\RiderProjects\Bankomat\BankomatUJ\bin\Debug\net7.0\BankomatUJ.pdb
+C:\Users\pawek\RiderProjects\Bankomat\BankomatUJ\obj\Debug\net7.0\BankomatUJ.csproj.AssemblyReference.cache
+C:\Users\pawek\RiderProjects\Bankomat\BankomatUJ\obj\Debug\net7.0\BankomatUJ.csproj.CoreCompileInputs.cache
+C:\Users\pawek\RiderProjects\Bankomat\BankomatUJ\obj\Debug\net7.0\BankomatUJ.dll
+C:\Users\pawek\RiderProjects\Bankomat\BankomatUJ\obj\Debug\net7.0\refint\BankomatUJ.dll
+C:\Users\pawek\RiderProjects\Bankomat\BankomatUJ\obj\Debug\net7.0\BankomatUJ.pdb
+C:\Users\pawek\RiderProjects\Bankomat\BankomatUJ\obj\Debug\net7.0\ref\BankomatUJ.dll
