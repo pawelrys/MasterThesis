@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6F48C66F-4BCC-443F-BBD9-5566112A139A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{C1384445-2221-4035-BAA2-205C2A73926E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math_Graphic", "src\Math_Graphic\Math_Graphic.csproj", "{588E35EC-55A1-462C-BC83-CE6F387424A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math_Graphic.Tests", "Math_Graphic.Tests\Math_Graphic.Tests.csproj", "{EE58EB03-B0A4-4BB8-A942-67BFA8869066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{588E35EC-55A1-462C-BC83-CE6F387424A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588E35EC-55A1-462C-BC83-CE6F387424A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588E35EC-55A1-462C-BC83-CE6F387424A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588E35EC-55A1-462C-BC83-CE6F387424A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE58EB03-B0A4-4BB8-A942-67BFA8869066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE58EB03-B0A4-4BB8-A942-67BFA8869066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE58EB03-B0A4-4BB8-A942-67BFA8869066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE58EB03-B0A4-4BB8-A942-67BFA8869066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{588E35EC-55A1-462C-BC83-CE6F387424A8} = {6F48C66F-4BCC-443F-BBD9-5566112A139A}
+		{EE58EB03-B0A4-4BB8-A942-67BFA8869066} = {C1384445-2221-4035-BAA2-205C2A73926E}
+	EndGlobalSection
+EndGlobal

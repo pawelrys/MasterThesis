@@ -4,14 +4,10 @@ core\Math\Matrix\IMatrix.class
 core\Math\Shapes\Circle.class
 core\Math\Shapes\PointXY.class
 core\Math\Matrix\Matrix.class
-core\web\WebContentFabric.class
-main\java\Tests\TriangleTest.class
 core\Math\Matrix\MatrixMath.class
 core\Math\Matrix\IMatrixMath.class
 core\Comon\Bitmap.class
-core\web\QueryType.class
 core\Math\ShapeType.class
-core\web\MyHttpServer.class
 core\Math\Shape.class
 core\Math\IGemoetricObj.class
 core\Math\Shapes\Triangle.class

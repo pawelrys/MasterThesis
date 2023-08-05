@@ -1,0 +1,30 @@
+C:\Users\pawek\Magisterka\Biblioteka numeryczna Csharp\Math_Graphic\src\Math_Graphic\bin\Debug\net7.0\Math_Graphic.deps.json
+C:\Users\pawek\Magisterka\Biblioteka numeryczna Csharp\Math_Graphic\src\Math_Graphic\bin\Debug\net7.0\Math_Graphic.runtimeconfig.json
+C:\Users\pawek\Magisterka\Biblioteka numeryczna Csharp\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\Math_Graphic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawek\Magisterka\Biblioteka numeryczna Csharp\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\Math_Graphic.AssemblyInfoInputs.cache
+C:\Users\pawek\Magisterka\Biblioteka numeryczna Csharp\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\Math_Graphic.AssemblyInfo.cs
+C:\Users\pawek\Magisterka\Biblioteka numeryczna Csharp\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\Math_Graphic.genruntimeconfig.cache
+C:\Users\pawek\Magisterka\Biblioteka numeryczna Csharp\Math_Graphic\src\Math_Graphic\bin\Debug\net7.0\Math_Graphic.exe
+C:\Users\pawek\Magisterka\Biblioteka numeryczna Csharp\Math_Graphic\src\Math_Graphic\bin\Debug\net7.0\Math_Graphic.dll
+C:\Users\pawek\Magisterka\Biblioteka numeryczna Csharp\Math_Graphic\src\Math_Graphic\bin\Debug\net7.0\Math_Graphic.pdb
+C:\Users\pawek\Magisterka\Biblioteka numeryczna Csharp\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\Math_Graphic.csproj.AssemblyReference.cache
+C:\Users\pawek\Magisterka\Biblioteka numeryczna Csharp\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\Math_Graphic.csproj.CoreCompileInputs.cache
+C:\Users\pawek\Magisterka\Biblioteka numeryczna Csharp\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\Math_Graphic.dll
+C:\Users\pawek\Magisterka\Biblioteka numeryczna Csharp\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\refint\Math_Graphic.dll
+C:\Users\pawek\Magisterka\Biblioteka numeryczna Csharp\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\Math_Graphic.pdb
+C:\Users\pawek\Magisterka\Biblioteka numeryczna Csharp\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\ref\Math_Graphic.dll
+C:\Users\pawek\Magisterka\MasterThesis\stryker-net\ExampleProjects\Math_Graphic\src\Math_Graphic\bin\Debug\net7.0\Math_Graphic.deps.json
+C:\Users\pawek\Magisterka\MasterThesis\stryker-net\ExampleProjects\Math_Graphic\src\Math_Graphic\bin\Debug\net7.0\Math_Graphic.runtimeconfig.json
+C:\Users\pawek\Magisterka\MasterThesis\stryker-net\ExampleProjects\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\Math_Graphic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawek\Magisterka\MasterThesis\stryker-net\ExampleProjects\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\Math_Graphic.AssemblyInfoInputs.cache
+C:\Users\pawek\Magisterka\MasterThesis\stryker-net\ExampleProjects\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\Math_Graphic.AssemblyInfo.cs
+C:\Users\pawek\Magisterka\MasterThesis\stryker-net\ExampleProjects\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\Math_Graphic.genruntimeconfig.cache
+C:\Users\pawek\Magisterka\MasterThesis\stryker-net\ExampleProjects\Math_Graphic\src\Math_Graphic\bin\Debug\net7.0\Math_Graphic.exe
+C:\Users\pawek\Magisterka\MasterThesis\stryker-net\ExampleProjects\Math_Graphic\src\Math_Graphic\bin\Debug\net7.0\Math_Graphic.dll
+C:\Users\pawek\Magisterka\MasterThesis\stryker-net\ExampleProjects\Math_Graphic\src\Math_Graphic\bin\Debug\net7.0\Math_Graphic.pdb
+C:\Users\pawek\Magisterka\MasterThesis\stryker-net\ExampleProjects\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\Math_Graphic.csproj.AssemblyReference.cache
+C:\Users\pawek\Magisterka\MasterThesis\stryker-net\ExampleProjects\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\Math_Graphic.csproj.CoreCompileInputs.cache
+C:\Users\pawek\Magisterka\MasterThesis\stryker-net\ExampleProjects\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\Math_Graphic.dll
+C:\Users\pawek\Magisterka\MasterThesis\stryker-net\ExampleProjects\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\refint\Math_Graphic.dll
+C:\Users\pawek\Magisterka\MasterThesis\stryker-net\ExampleProjects\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\Math_Graphic.pdb
+C:\Users\pawek\Magisterka\MasterThesis\stryker-net\ExampleProjects\Math_Graphic\src\Math_Graphic\obj\Debug\net7.0\ref\Math_Graphic.dll
